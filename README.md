@@ -4,3 +4,5 @@ Pool a matatu or a car from a convenient location to a particular route. Get a v
 
 ## Pre-requisites  
  
+## Contributing
+ Click [here](CONTRIBUTIG.md) to read the file on how to contribute.
